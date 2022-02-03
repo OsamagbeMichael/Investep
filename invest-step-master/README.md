@@ -1,6 +1,6 @@
 # Getting Started with InvestStep App
 
-This is a group project for COMP-3340.
+
 
 The frontend is developed using ReactJS.
 
